@@ -20,7 +20,8 @@ Explorez notre code source pour découvrir nos projets phares et les outils que 
 ### 2. Formation Professionnelle
 
 Investir dans le capital humain est essentiel. Découvrez nos programmes de formation professionnelle conçus pour renforcer les compétences techniques et opérationnelles de votre équipe. 
-NOS FORMATIONS:
+## NOS FORMATIONS:
+
 *Formation informatique pour débutant, 
 *Formation en secrétariat informatique,
 *Formation en graphisme,
